@@ -6,3 +6,6 @@ os
 scipy
 plotly
 hypothesize==1.1.1
+requests
+zipfile
+sqlalchemy
