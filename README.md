@@ -21,3 +21,4 @@ Proceso de ETL:
 ### [4-report.ipynb](https://github.com/anthonymanotoa/survey-dev/blob/main/notebooks/4-report.ipynb)
 
 - Reporte general con storytelling.
+- Conclusiones y accionables.
